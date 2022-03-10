@@ -256,3 +256,16 @@ img {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
+
+/* question 2 table */
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid black !important;
+  text-align: left;
+  padding: 8px;
+}
